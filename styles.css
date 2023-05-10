@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&family=Passion+One:wght@700;900&display=swap');
+
+
+body{
+    background-color: #ffba43;
+}
+h1{
+    font-family: "Passion One", sans-serif;
+    color: #d84417;
+    font-size: 80px;
+}
+.container{
+    max-width: 750px;
+}
+.block{
+    border: 15px solid #d84417;
+    padding: 30px 45px;
+    margin-bottom: 30px;
+}
+.block-title{
+    white-space: nowrap;
+    width: 100%;
+}
+.highlight-red{
+    font-family: "Passion One", sans-serif !important;
+    font-weight: 400;
+    background-color: #d84417 !important;
+    color: #ffdb9c !important;
+    font-size: 40px !important;
+    margin: 0 !important;
+    height: 100%;
+    padding: 10px;
+}
+.highlight-green{
+    font-family: "Passion One", sans-serif !important;
+    font-weight: 400;
+    background-color: #51a62c !important;
+    color: #d8e6b3 !important;
+    font-size: 40px !important;
+    margin: 0 !important;
+    height: 100%;
+    padding: 10px;
+}
+.block-body{
+    width: 100%;
+    background-color: #d84417;
+    padding: 30px 45px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+    color: #ffdb9c;
+    font-weight: bold;
+}
+.buttons{
+    margin-top: 15px;
+}
